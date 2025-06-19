@@ -7,7 +7,7 @@
     "start": "live-server src",
     "build": "echo 'Build step not defined yet.'"
   },
-  "author": "Your Name",
+  "author": "Adham Dev (memerang buta)",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
